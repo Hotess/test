@@ -1,0 +1,9 @@
+@import url("./__label/form__label.css");
+@import url("./__container/form__container.css");
+
+.form {
+    margin: 0 auto;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
