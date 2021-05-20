@@ -1,0 +1,16 @@
+.form__open {
+    margin: 30px auto 0;
+    border: 2px solid white;
+    border-radius: 20px;
+    background: transparent;
+    color: white;
+    padding: 5px;
+    width: 80%;
+    cursor: pointer;
+    user-select: none;
+    transition: .3s ease;
+}
+
+.form__open:hover {
+    opacity: .6;
+}

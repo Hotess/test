@@ -1,0 +1,15 @@
+.form__close {
+    background: url("./../../../images/btn__close.svg") center;
+    margin: 0 0 2px 8px;
+    outline: none;
+    width: 15px;
+    height: 15px;
+    border: 0;
+    align-self: flex-end;
+    cursor: pointer;
+    transition: .3s ease;
+}
+
+.form__close:hover {
+    opacity: .6;
+}
